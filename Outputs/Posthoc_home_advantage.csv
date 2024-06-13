@@ -1,0 +1,11 @@
+Contrast,A,B,Paired,Parametric,U-val,alternative,p-unc,p-corr,p-adjust,eta-square
+Group,Draw,Home one ahead,False,False,472.0,two-sided,0.48125279223823214,1.0,bonf,0.013400955330254575
+Group,Draw,Home one behind,False,False,391.5,two-sided,0.7341214183795532,1.0,bonf,0.0013543780240533353
+Group,Draw,Home one more ahead,False,False,412.5,two-sided,1.2544033501446441e-05,0.0001254403350144644,bonf,0.21726192772504735
+Group,Draw,Home one more behind,False,False,261.5,two-sided,0.022241393076610737,0.22241393076610738,bonf,0.11355139692501985
+Group,Home one ahead,Home one behind,False,False,291.5,two-sided,0.4414841665827435,1.0,bonf,0.02019861800330171
+Group,Home one ahead,Home one more ahead,False,False,369.5,two-sided,0.002976397798312702,0.02976397798312702,bonf,0.13247890153710246
+Group,Home one ahead,Home one more behind,False,False,216.5,two-sided,0.1669343495868748,1.0,bonf,0.04011032457453757
+Group,Home one behind,Home one more ahead,False,False,180.0,two-sided,0.00016493560392622753,0.0016493560392622753,bonf,0.21693229266919994
+Group,Home one behind,Home one more behind,False,False,122.0,two-sided,0.03700047417770939,0.37000474177709386,bonf,0.13050038134873104
+Group,Home one more ahead,Home one more behind,False,False,639.5,two-sided,0.05341861431625375,0.5341861431625374,bonf,0.04773294081525477

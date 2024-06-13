@@ -1,0 +1,5 @@
+       Close  Imbalance
+0  1:18±2:00  3:16±2:26
+Statistic: 1562.0
+p-value: 1.091933359806752e-06
+Eta squared: 0.16515036300220887

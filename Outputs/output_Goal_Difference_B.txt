@@ -1,0 +1,16 @@
+  Home one more ahead Home one ahead Draw       Home one behind Home one more behind
+0  3:36±2:36           1:39±2:16      1:11±1:51  1:02±1:55       2:31±1:53          
+Statistic: 27.182997132223154
+p-value: 1.825521989868811e-05
+Eta squared: 0.15152285707335394
+  Contrast A                    B                      Paired  Parametric  U-val alternative  p-unc      p-corr    p-adjust  eta-square
+0  Group                   Draw        Home one ahead  False   False       472.0  two-sided   4.813e-01  1.000e+00  bonf     0.013     
+1  Group                   Draw       Home one behind  False   False       391.5  two-sided   7.341e-01  1.000e+00  bonf     0.001     
+2  Group                   Draw   Home one more ahead  False   False       412.5  two-sided   1.254e-05  1.254e-04  bonf     0.217     
+3  Group                   Draw  Home one more behind  False   False       261.5  two-sided   2.224e-02  2.224e-01  bonf     0.114     
+4  Group         Home one ahead       Home one behind  False   False       291.5  two-sided   4.415e-01  1.000e+00  bonf     0.020     
+5  Group         Home one ahead   Home one more ahead  False   False       369.5  two-sided   2.976e-03  2.976e-02  bonf     0.132     
+6  Group         Home one ahead  Home one more behind  False   False       216.5  two-sided   1.669e-01  1.000e+00  bonf     0.040     
+7  Group        Home one behind   Home one more ahead  False   False       180.0  two-sided   1.649e-04  1.649e-03  bonf     0.217     
+8  Group        Home one behind  Home one more behind  False   False       122.0  two-sided   3.700e-02  3.700e-01  bonf     0.131     
+9  Group    Home one more ahead  Home one more behind  False   False       639.5  two-sided   5.342e-02  5.342e-01  bonf     0.048     
